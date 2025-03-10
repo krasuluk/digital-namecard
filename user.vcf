@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Krasula;Lukas;;;
 FN: Lukas  Krasula 
-ORG:Netflix;
-TITLE:Senior Research Scientist - Video Quality Metrics\nEnoding Technologies
-EMAIL;type=INTERNET;type=WORK;type=pref:lkrasula@netflix.com
+ORG:Adobe Firefly;
+TITLE:Senior Machine Learning Engineer, GenAI Quality
+EMAIL;type=INTERNET;type=WORK;type=pref:lkrasula@adobe.com
 TEL;type=WORK;type=VOICE:+1 669 271 2026
-item1.ADR;type=WORK;type=pref:;;100 Winchester Circle\nLos Gatos\, CA 95032;;;USA
+item1.ADR;type=WORK;type=pref:;;345 Park Avenue\nSan Jose\, CA 95110;;;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:sites.google.com/view/lukaskrasula
 item2.X-ABLabel:_$!<HomePage>!$_
